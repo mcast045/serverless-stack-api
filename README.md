@@ -8,7 +8,7 @@ A simple note taking app called Scratch. It is a single page application powered
 * Allow users to modify their note and the attachment
 * Users can also delete their notes
 * The app needs to be responsive
-The app is deployed on the AWS Platform at [here](d3qnndceml20si.cloudfront.net)
+The app is deployed on the AWS Platform at [here](http://d3qnndceml20si.cloudfront.net/)
 ## SUMMARY
 * Configure your AWS account
 * Create database using DynamoDB
